@@ -1,0 +1,46 @@
+:root{
+    --color1: moccasin;
+    --color2: rgb(167,64,64)
+}
+
+.Header{
+    background-color: rgb(209, 164, 106);
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: var(--color1);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Stamps {
+    background-color: var(--color2);
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 35px;
+    font-size: 17px;
+}
+
+img {
+    max-height: 300px;
+}
+
+.RouterLink {
+    background-color: rgb(177, 159, 128);
+    border-style: dotted;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 35px;
+}
+
+.ContainerStyling {
+    background-color: rgb(134, 43, 43);
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 35px;
+}
